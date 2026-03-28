@@ -1,0 +1,15 @@
+[submodule "fraud-detection-dashboard"]
+	path = fraud-detection-dashboard
+	url = https://github.com/sth00619/fraud-detection-dashboard.git
+[submodule "customer-churn-platform"]
+	path = customer-churn-platform
+	url = https://github.com/sth00619/customer-churn-platform.git
+[submodule "seoul-transit-delay"]
+	path = seoul-transit-delay
+	url = https://github.com/sth00619/seoul-transit-delay.git
+[submodule "kbeauty-trend-forecast"]
+	path = kbeauty-trend-forecast
+	url = https://github.com/sth00619/kbeauty-trend-forecast.git
+[submodule "seoul-store-locator"]
+	path = seoul-store-locator
+	url = https://github.com/sth00619/seoul-store-locator.git
