@@ -9,11 +9,11 @@
 
 | # | 레포 | 주제 | 핵심 기술 |
 |---|------|------|-----------|
-| 1 | [fraud-detection-dashboard](./fraud-detection-dashboard) | 실시간 금융 거래 이상탐지 대시보드 | Airflow · XGBoost · FastAPI · Next.js |
-| 2 | [customer-churn-platform](./customer-churn-platform) | SaaS 고객 이탈 예측 & 코호트 분석 | Spring Boot · dbt · LightGBM · D3.js |
-| 3 | [seoul-transit-delay](./seoul-transit-delay) | 서울 대중교통 지연 예측 & 경로 최적화 | PostGIS · LSTM · Mapbox GL JS |
-| 4 | [kbeauty-trend-forecast](./kbeauty-trend-forecast) | K-뷰티 글로벌 트렌드 분석 & 수요 예측 | Prophet · Elasticsearch · Spring Boot |
-| 5 | [seoul-store-locator](./seoul-store-locator) | 서울 상권 분석 & 점포 입지 추천 | H3 · PostGIS · GWR · Deck.gl |
+| 1 | [fraud-detection-dashboard](https://github.com/sth00619/fraud-detection-dashboard) | 실시간 금융 거래 이상탐지 대시보드 | Airflow · XGBoost · FastAPI · Next.js |
+| 2 | [customer-churn-platform](https://github.com/sth00619/customer-churn-platform) | SaaS 고객 이탈 예측 & 코호트 분석 | Spring Boot · dbt · LightGBM · D3.js |
+| 3 | [seoul-transit-delay](https://github.com/sth00619/seoul-transit-delay) | 서울 대중교통 지연 예측 & 경로 최적화 | PostGIS · LSTM · Mapbox GL JS |
+| 4 | [kbeauty-trend-forecast](https://github.com/sth00619/kbeauty-trend-forecast) | K-뷰티 글로벌 트렌드 분석 & 수요 예측 | Prophet · Elasticsearch · Spring Boot |
+| 5 | [seoul-store-locator](https://github.com/sth00619/seoul-store-locator) | 서울 상권 분석 & 점포 입지 추천 | H3 · PostGIS · GWR · Deck.gl |
 
 ---
 
